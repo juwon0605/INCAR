@@ -69,8 +69,8 @@
    - Spring MVC
    - Spring Data JPA
 3.  **Cloud**
-   - AWS EC2
-   - AWS RDS
+    - AWS EC2
+    - AWS RDS
 4. **Configuration Management**
    - GitLab
    
