@@ -14,8 +14,8 @@ import ac.inhaventureclub.service.EmailService;
 
 @Service("emailservice")
 public class EmailServiceImple implements EmailService{
-	final String id = "ivc.incar@gmail.com"; //발신자의 이메일 아이디를 입력
-	final String pw = "kpchCross!"; //발신자 이메일의 패스워드를 입력
+	final String id = ""; //발신자의 이메일 아이디를 입력
+	final String pw = ""; //발신자 이메일의 패스워드를 입력
 	@Override
 	public String getRandomAndSendEmail(String address) {
 		String host = "smtp.gmail.com"; //smtp.gmail.com
