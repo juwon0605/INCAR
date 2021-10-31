@@ -47,37 +47,18 @@
 
 <br>
 
-### ✨ Demo
-
-0. 전체 Demo
+### ✨ Demo(2분 38초)
 
 <center>
 <img src="https://user-images.githubusercontent.com/58170545/128745216-6d944bf7-0916-4cbb-b5e7-657658ffb60c.gif" width="40%" height="40%"/>
 </center>
-
-
-1. 회원가입
-
-<center>
-<img src="https://user-images.githubusercontent.com/58170545/128745365-780ab1e7-14de-483f-8690-9f384e300052.gif" width="40%" height="40%" />
-</center>
-
-
-2. 로그인
-   (gif)
-
-3. 글 등록하기
-   (gif)
-   <br>
+<br>
 
 ### ✨ INCAR DB 구조
-
-<br>
 
 <center>
 <img src="https://user-images.githubusercontent.com/58170545/128822226-d4192b0b-47df-497b-8f18-68c8151e3997.png"/>
 </center>
-
 <br>
 
 ## ✨ Tech Stack
