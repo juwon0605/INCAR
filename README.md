@@ -47,10 +47,12 @@
 
 <br>
 
-### ✨ Demo(2분 38초)
+### ✨ Demo(1분 45초)
+​ - https://youtu.be/hdVcHITk9_4
 
+​ - GIF (1분)
 <center>
-<img src="https://user-images.githubusercontent.com/58170545/128745216-6d944bf7-0916-4cbb-b5e7-657658ffb60c.gif" width="40%" height="40%"/>
+<img src="https://user-images.githubusercontent.com/58173061/140066600-3c045d5f-77ea-4353-9507-2ccf8809cf4b.gif" />
 </center>
 <br>
 
